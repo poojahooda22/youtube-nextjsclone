@@ -15,7 +15,8 @@ const Card = () => {
             </div>
             <div className='w-full flex justify-between mt-[1.6vw]'>
                 <div className='flex gap-[1.5vw]'>
-                    <img src="https://img.freepik.com/free-photo/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair_285396-896.jpg?uid=R3651325&ga=GA1.1.678771452.1700385267&semt=sph" 
+                    <img 
+                    src="https://img.freepik.com/free-photo/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair_285396-896.jpg?uid=R3651325&ga=GA1.1.678771452.1700385267&semt=sph" 
                         alt="placeholder" 
                         className='w-10 h-10 object-cover rounded-full'
                     />
