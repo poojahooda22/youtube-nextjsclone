@@ -20,10 +20,6 @@ export default function Home() {
           </p>
         </a>
 
-       
-          
-          
-        </a>
 
         <a
           href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
