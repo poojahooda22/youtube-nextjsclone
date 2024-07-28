@@ -25,7 +25,8 @@ const Card = () => {
                             Paris Olympics 2024: Manu Bhaker wins historic bronze in women’s...
                         </h1>
                         <div>
-                            <h3 className='text-[1.5vw]'>The Hindu</h3>
+                            <h3 className='text-[1.5vw]'>
+                                The Hindu</h3>
                             {/* //icon */}
                         </div>
                         <div className='flex gap-2 text-[1.5vw]'>
