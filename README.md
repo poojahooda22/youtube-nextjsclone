@@ -3,7 +3,7 @@
 
 
 
-This project uses [`next/font`] to automatically
+This project uses [`next/font`
 
 ## Learn More
 
