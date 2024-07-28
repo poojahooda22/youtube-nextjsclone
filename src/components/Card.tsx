@@ -26,7 +26,8 @@ const Card = () => {
                         </h1>
                         <div>
                             <h3 className='text-[1.5vw]'>
-                                The Hindu</h3>
+                                The Hindu
+                            </h3>
                             {/* //icon */}
                         </div>
                         <div className='flex gap-2 text-[1.5vw]'>
