@@ -23,7 +23,7 @@ const Card = () => {
                     <div className='w-2/3'>
                         <h1 className='text-[1.8vw]'>
                             Paris Olympics 2024: Manu Bhaker wins historic bronze in women’s...
-                            </h1>
+                        </h1>
                         <div>
                             <h3 className='text-[1.5vw]'>The Hindu</h3>
                             {/* //icon */}
