@@ -5,7 +5,7 @@ import { BiDotsVerticalRounded } from "react-icons/bi";
 const Card = () => {
   return (
     <div className=''>
-        <div className='w-[50vw] h-[60vw] '>
+        <div className='w-full sm:w-[50vw]  h-[60vw] '>
             <div className='w-full rounded-lg'>
                 <img 
                     src="https://img.freepik.com/free-psd/3d-rendering-gamer-room-illustration_23-2151642704.jpg?uid=R3651325&ga=GA1.1.678771452.1700385267" 
