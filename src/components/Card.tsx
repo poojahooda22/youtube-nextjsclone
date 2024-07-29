@@ -4,7 +4,7 @@ import { BiDotsVerticalRounded } from "react-icons/bi";
 
 const Card = (props: any) => {
   return (
-    <div className=''>
+
         <div className='w-full sm:w-[30vw] '>
             <div className='w-full h-[42vw] sm:w-[30vw] sm:h-[20vw]'>
                 <img 
@@ -44,7 +44,6 @@ const Card = (props: any) => {
                 />
             </div>
         </div>
-    </div>
   )
 }
 
