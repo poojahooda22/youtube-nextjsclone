@@ -6,7 +6,7 @@ const Card = (props: any) => {
   return (
 
         <div className='w-full md:w-[30vw] lg:w-[40vw] p-2'>
-            <div className='w-full h-[42vw] sm:w-[30vw] lg:w-[40vw] lg:h-[16vw] sm:h-[20vw]'>
+            <div className='w-full h-[42vw] sm:w-[24vw] sm:h-[16vw]'>
                 <img 
                     src={props.image} 
                     alt="placeholder"
@@ -24,7 +24,7 @@ const Card = (props: any) => {
                         <h1 className='text-[3.6vw] sm:text-[1vw]'>
                             {props.title}
                         </h1>
-                        <div className='flex gap-2 text-[2.4vw] sm:text-[.8vw] text-zinc-400'>
+                        <div className='flex gap-2 text-[2.5vw] sm:text-[.8vw] text-zinc-400'>
                             <div>
                                 <h3 className=''>
                                     {props.author}
