@@ -4,7 +4,7 @@ import Searchbar from './Searchbar'
 const Navbar = () => {
   return (
     <div className='flex items-center justify-between'>
-      <div className='w-[16vw] flex'>
+      <div className='w-[16vw] block text-white'>
         <svg xmlns="http://www.w3.org/2000/svg" id="yt-logo-updated-svg_yt4" className="external-icon " viewBox="0 0 90 20" focusable={false} style={{ pointerEvents: 'none',  height: '100%' }} aria-hidden={true}>
         <svg id="yt-logo-updated_yt4" viewBox="0 0 90 20" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
         <g>
@@ -24,7 +24,7 @@ const Navbar = () => {
         </g>
         </svg>
         </svg>
-        <h2 className='text-[2vw] leading-none tracking-tighter'>YouTube</h2>
+        
       </div>
       <div><Searchbar/></div>
       <div>person</div>
