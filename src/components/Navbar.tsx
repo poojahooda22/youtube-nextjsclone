@@ -3,6 +3,7 @@ import Searchbar from './Searchbar';
 import Avatar from '@mui/material/Avatar';
 import { IoMdNotificationsOutline } from "react-icons/io";
 import { RiVideoAddLine } from "react-icons/ri";
+import { IoMenuSharp } from "react-icons/io5";
 
 const Navbar = () => {
   return (
