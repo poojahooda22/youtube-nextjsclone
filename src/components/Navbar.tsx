@@ -8,7 +8,8 @@ import { IoMenuSharp } from "react-icons/io5";
 const Navbar = () => {
   return (
     <div className='flex items-center justify-between py-[1vw] px-[1vw]'>
-      <div className='w-[16vw] '>  
+      <div className='w-[16vw] '>
+        <IoMenuSharp />  
         <img src="/ytlogo.svg" alt="logo" className='w-32 h-10' />  
       </div>
 
