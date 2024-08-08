@@ -7,12 +7,13 @@ import { IoMenuSharp } from "react-icons/io5";
 
 const Navbar = () => {
   return (
-    <div className='flex items-center justify-between py-[1vw] px-[1vw]'>
-      <div className='w-[16vw] '>  
-        <img src="/ytlogo.svg" alt="logo" className='w-32 h-10' />  
+    <div className='flex items-start justify-between py-[1vw] px-[1vw]'>
+      <div className=' flex items-start'>
+        <IoMenuSharp size={30} color='#999999' />  
+        <img src="/ytlogo.svg" alt="logo" className='w-28 h-8' />  
       </div>
 
-      <div className='w-2/3 hidden sm:block'><Searchbar/></div>
+      <div className='w-2/3 hidden md:block'><Searchbar/></div>
       <div className='flex items-start gap-4'>
         <RiVideoAddLine size={28} color='#999999' />
         <div className='relative'>
