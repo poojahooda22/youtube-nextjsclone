@@ -2,7 +2,7 @@ import React from 'react'
 import Searchbar from './Searchbar';
 import Avatar from '@mui/material/Avatar';
 import { IoMdNotificationsOutline } from "react-icons/io";
-
+import { RiVideoAddLine } from "react-icons/ri";
 
 const Navbar = () => {
   return (
