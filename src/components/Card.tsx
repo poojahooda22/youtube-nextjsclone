@@ -14,8 +14,10 @@ const Card = (props: any) => {
                 />
             </div>
             <div 
-                className='w-full flex justify-between items-start mt-[4vw] 
-                md:mt-[2vw] lg:mt-[1vw] xl:mt-[10px] px-[0vw] sm:px-0'
+                className='w-full flex justify-between 
+                items-start mt-[4vw] 
+                md:mt-[2vw] lg:mt-[1vw] xl:mt-[10px] 
+                px-[0vw] sm:px-0'
             >
                 <div className='flex gap-[2.4vw] sm:gap-[1.2vw]'>
                     <img 
@@ -33,7 +35,7 @@ const Card = (props: any) => {
                             className='flex gap-2 md:gap-0 md:flex-col 
                             text-[2.5vw] md:text-[1.6vw] 
                             lg:text-[1.4vw] xl:text-[1vw] 2xl:text-[.6vw] 
-                            text-zinc-400 pt-[.5vw] md:pt-[1px] '
+                            text-zinc-400 pt-[.5vw] md:pt-[1px]'
                         >
                             <div>
                                 <h3 className=''>
