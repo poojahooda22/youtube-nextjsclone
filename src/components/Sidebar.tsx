@@ -18,6 +18,7 @@ const Sidebar = () => {
         </div>
         <div>
             <SiYoutubeshorts />
+            <p className='text-[1.7vw]'>Shorts</p>
         </div>
     </div>
   )
