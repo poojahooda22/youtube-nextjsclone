@@ -2,7 +2,7 @@ import React from 'react';
 import { IoMenuSharp } from "react-icons/io5";
 import { GoHomeFill } from "react-icons/go";
 import { SiYoutubeshorts } from "react-icons/si";
-
+import { MdOutlineSubscriptions } from "react-icons/md";
 
 
 const Sidebar = () => {
@@ -13,12 +13,16 @@ const Sidebar = () => {
             <img src="/ytlogo.svg" alt="logo" className='w-28 h-8' />  
         </div>
         <div className='flex items-center gap-4 mt-6 bg-zinc-700 py-1 px-2 rounded-lg'>
-            <GoHomeFill size={22} />
-            <p className='text-[1.7vw]'>Home</p>
+            <GoHomeFill size={20} />
+            <p className='text-[1.5vw]'>Home</p>
         </div>
         <div className='flex items-center gap-4 mt-2 px-2'>
-            <SiYoutubeshorts />
-            <p className='text-[1.7vw]'>Shorts</p>
+            <SiYoutubeshorts size={20} />
+            <p className='text-[1.5vw]'>Shorts</p>
+        </div>
+        <div className='flex items-center gap-4 mt-2 px-2'>
+            <MdOutlineSubscriptions size={20} />
+            <p className='text-[1.5vw]'>Subscriptions</p>
         </div>
     </div>
   )
