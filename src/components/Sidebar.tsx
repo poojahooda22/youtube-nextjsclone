@@ -13,11 +13,11 @@ const Sidebar = () => {
             <img src="/ytlogo.svg" alt="logo" className='w-28 h-8' />  
         </div>
         <div className='flex items-center gap-4 mt-6 bg-zinc-700 py-1 px-2 rounded-lg'>
-            <GoHomeFill size={22} />
+            <GoHomeFill size={20} />
             <p className='text-[1.7vw]'>Home</p>
         </div>
         <div className='flex items-center gap-4 mt-2 px-2'>
-            <SiYoutubeshorts size={22} />
+            <SiYoutubeshorts size={20} />
             <p className='text-[1.7vw]'>Shorts</p>
         </div>
     </div>
