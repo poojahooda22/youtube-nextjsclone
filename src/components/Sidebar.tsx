@@ -24,7 +24,7 @@ const Sidebar = () => {
             <MdOutlineSubscriptions size={20} />
             <p className='text-[1.5vw]'>Subscriptions</p>
         </div>
-        <div className=''></div>
+        <div className='w-full h-[1px] bg-zinc-700 mt-4'></div>
     </div>
   )
 }
