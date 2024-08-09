@@ -9,7 +9,7 @@ const Sidebar = () => {
             <IoMenuSharp size={28} color='#999999' className='hidden sm:block' />  
             <img src="/ytlogo.svg" alt="logo" className='w-28 h-8' />  
         </div>
-        <div className='flex items-center gap-4 mt-6 bg-zinc-700 py-1 px-1 '>
+        <div className='flex items-center gap-4 mt-6 bg-zinc-700 py-1 px-2 rounded-lg'>
             <GoHomeFill size={22} />
             <p className='text-[1.7vw]'>Home</p>
         </div>
