@@ -17,7 +17,7 @@ const Sidebar = () => {
             <p className='text-[1.7vw]'>Home</p>
         </div>
         <div className='flex items-center gap-4 mt-2 px-2'>
-            <SiYoutubeshorts />
+            <SiYoutubeshorts size={22} />
             <p className='text-[1.7vw]'>Shorts</p>
         </div>
     </div>
