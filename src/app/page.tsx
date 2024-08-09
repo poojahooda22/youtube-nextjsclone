@@ -9,7 +9,7 @@ export default function Home() {
     <main className="py-[1vw]">
       <Navbar />
       <Sidebar/>
-      <VideoGrid />
+      {/* <VideoGrid /> */}
     </main>
   );
 }
