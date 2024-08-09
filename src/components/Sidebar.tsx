@@ -22,7 +22,7 @@ const Sidebar = () => {
         </div>
         <div className='flex items-center gap-4 mt-2 px-2'>
             <MdOutlineSubscriptions size={20} />
-            <p className='text-[1.4vw]'>Subscriptions</p>
+            <p className='text-[1.3vw]'>Subscriptions</p>
         </div>
         <div className='w-full h-[1px] bg-zinc-700 mt-4'></div>
     </div>
