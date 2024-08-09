@@ -14,7 +14,7 @@ const Sidebar = () => {
         </div>
         <div className='flex items-center gap-4 mt-6 bg-zinc-800 py-[1.1vw] px-2 rounded-lg'>
             <GoHomeFill size={20} />
-            <p className='text-[1.4vw]'>Home</p>
+            <p className='text-[1.3vw]'>Home</p>
         </div>
         <div className='flex items-center gap-4 mt-2 px-2'>
             <SiYoutubeshorts size={20} />
