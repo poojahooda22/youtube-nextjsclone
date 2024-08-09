@@ -1,6 +1,9 @@
 import React from 'react';
 import { IoMenuSharp } from "react-icons/io5";
 import { GoHomeFill } from "react-icons/go";
+import { SiYoutubeshorts } from "react-icons/si";
+
+
 
 const Sidebar = () => {
   return (
@@ -12,6 +15,10 @@ const Sidebar = () => {
         <div className='flex items-center gap-4 mt-6 bg-zinc-700 py-1 px-2 rounded-lg'>
             <GoHomeFill size={22} />
             <p className='text-[1.7vw]'>Home</p>
+        </div>
+        <div className='flex items-center gap-4 mt-2 px-2'>
+            <SiYoutubeshorts />
+            <p className='text-[1.7vw]'>Shorts</p>
         </div>
     </div>
   )
