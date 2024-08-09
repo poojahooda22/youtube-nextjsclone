@@ -1,5 +1,6 @@
 import React from 'react';
 import { IoMenuSharp } from "react-icons/io5";
+import { GoHomeFill } from "react-icons/go";
 
 const Sidebar = () => {
   return (
@@ -8,7 +9,10 @@ const Sidebar = () => {
             <IoMenuSharp size={28} color='#999999' className='hidden sm:block' />  
             <img src="/ytlogo.svg" alt="logo" className='w-28 h-8' />  
         </div>
-        <div>Hello</div>
+        <div>
+            <GoHomeFill />
+            <p>Home</p>
+        </div>
     </div>
   )
 }
