@@ -23,11 +23,13 @@ const Card = (props: any) => {
                     <img 
                         src={props.thumbImage} 
                         alt="placeholder" 
-                        className='w-10 h-10 md:w-8 md:h-8 lg:w-10 lg:h-10 object-cover rounded-full'
+                        className='w-10 h-10 md:w-8 md:h-8 lg:w-10 lg:h-10 
+                        object-cover rounded-full'
                     />
                     <div className='w-full'>
                         <h1 className='text-[3.6vw] md:text-[1.9vw] 
-                            lg:text-[1.5vw] xl:text-[1vw] 2xl:text-[.7vw] font-medium'
+                            lg:text-[1.5vw] xl:text-[1vw] 
+                            2xl:text-[.7vw] font-medium'
                         >
                             {props.title}
                         </h1>
