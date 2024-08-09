@@ -12,18 +12,19 @@ const Sidebar = () => {
             <IoMenuSharp size={28} color='#999999' className='hidden sm:block' />  
             <img src="/ytlogo.svg" alt="logo" className='w-28 h-8' />  
         </div>
-        <div className='flex items-center gap-4 mt-6 bg-zinc-700 py-1 px-2 rounded-lg'>
+        <div className='flex items-center gap-4 mt-6 bg-zinc-800 py-[1.1vw] px-2 rounded-lg'>
             <GoHomeFill size={20} />
-            <p className='text-[1.5vw]'>Home</p>
+            <p className='text-[1.4vw]'>Home</p>
         </div>
         <div className='flex items-center gap-4 mt-2 px-2'>
             <SiYoutubeshorts size={20} />
-            <p className='text-[1.5vw]'>Shorts</p>
+            <p className='text-[1.4vw]'>Shorts</p>
         </div>
         <div className='flex items-center gap-4 mt-2 px-2'>
             <MdOutlineSubscriptions size={20} />
-            <p className='text-[1.5vw]'>Subscriptions</p>
+            <p className='text-[1.4vw]'>Subscriptions</p>
         </div>
+        <div className='w-full h-[1px] bg-zinc-700 mt-4'></div>
     </div>
   )
 }
