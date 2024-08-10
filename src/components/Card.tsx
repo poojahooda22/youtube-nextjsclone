@@ -9,7 +9,7 @@ const Card = (props: any) => {
         <div className='w-full h-[48vw] md:h-[22vw] lg:h-[19vw] xl:h-[15vw] 2xl:h-[9vw]'>
             <img 
                 src={props.image} 
-                    alt="placeholder"
+                alt="placeholder"
                     className='w-full h-full object-cover 
                     rounded-xl' 
             />
