@@ -16,7 +16,7 @@ const Card = (props: any) => {
         </div>
         <div 
             className='w-full flex justify-between 
-                items-start mt-[4vw] 
+            items-start mt-[4vw] 
                 md:mt-[2vw] lg:mt-[1vw] xl:mt-[10px] 
                 px-[0vw] sm:px-0'
         >
