@@ -13,7 +13,7 @@ const Card = (props: any) => {
                     className='w-full h-full object-cover 
                     rounded-xl' 
                 />
-            </div>
+        </div>
         <div 
                 className='w-full flex justify-between 
                 items-start mt-[4vw] 
