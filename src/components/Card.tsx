@@ -19,7 +19,7 @@ const Card = (props: any) => {
                 items-start mt-[4vw] 
                 md:mt-[2vw] lg:mt-[1vw] xl:mt-[10px] 
                 px-[0vw] sm:px-0'
-            >
+        >
                 <div className='flex gap-[2.4vw] sm:gap-[1.2vw]'>
                     <img 
                         src={props.thumbImage} 
