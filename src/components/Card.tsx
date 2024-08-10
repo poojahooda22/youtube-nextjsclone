@@ -11,7 +11,7 @@ const Card = (props: any) => {
                 src={props.image} 
                 alt="placeholder"
                 className='w-full h-full object-cover 
-                    rounded-xl' 
+                rounded-xl' 
             />
         </div>
         <div 
