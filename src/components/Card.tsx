@@ -40,7 +40,7 @@ const Card = (props: any) => {
                             text-[2.5vw] md:text-[1.6vw] 
                             lg:text-[1.4vw] xl:text-[1vw] 2xl:text-[.6vw] 
                             text-zinc-400 pt-[.5vw] md:pt-[1px]'
-                        >
+                    >
                             <div>
                                 <h3 className=''>
                                     {props.author}
