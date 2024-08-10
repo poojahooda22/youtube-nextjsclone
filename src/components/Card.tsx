@@ -33,7 +33,7 @@ const Card = (props: any) => {
                         lg:text-[1.5vw] xl:text-[1vw] 
                         2xl:text-[.7vw] font-medium'
                     >
-                            {props.title}
+                        {props.title}
                     </h1>
                         <div 
                             className='flex gap-2 md:gap-0 md:flex-col 
