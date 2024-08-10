@@ -31,7 +31,7 @@ const Searchbar = () => {
                     </svg>
                     <span className="sr-only">
                         Search
-                        </span>
+                    </span>
                 </button>
             </div>
         </div>
