@@ -51,7 +51,7 @@ const Card = (props: any) => {
                                 <p>{props.timeStamp}</p>
                             </div>
                         </div>
-                    </div>
+                </div>
             </div>
                 
                 <BiDotsVerticalRounded 
