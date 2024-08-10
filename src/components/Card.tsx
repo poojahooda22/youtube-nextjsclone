@@ -6,7 +6,7 @@ const Card = (props: any) => {
   return (
 
     <div className='w-full md:w-[50vw] lg:w-[34vw] xl:w-[25vw] 2xl:w-[16vw] p-4'>
-            <div className='w-full h-[48vw] md:h-[22vw] lg:h-[19vw] xl:h-[15vw] 2xl:h-[9vw]'>
+        <div className='w-full h-[48vw] md:h-[22vw] lg:h-[19vw] xl:h-[15vw] 2xl:h-[9vw]'>
                 <img 
                     src={props.image} 
                     alt="placeholder"
