@@ -51,7 +51,7 @@ const Card = (props: any) => {
                             </div>
                         </div>
                     </div>
-                </div>
+            </div>
                 
                 <BiDotsVerticalRounded 
                     size={24}
