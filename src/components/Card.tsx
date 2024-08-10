@@ -41,7 +41,7 @@ const Card = (props: any) => {
                         lg:text-[1.4vw] xl:text-[1vw] 2xl:text-[.6vw] 
                         text-zinc-400 pt-[.5vw] md:pt-[1px]'
                     >
-                            <div>
+                        <div>
                                 <h3 className=''>
                                     {props.author}
                                 </h3>
