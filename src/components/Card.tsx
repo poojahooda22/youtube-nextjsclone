@@ -14,7 +14,7 @@ const Card = (props: any) => {
                     rounded-xl' 
                 />
             </div>
-            <div 
+        <div 
                 className='w-full flex justify-between 
                 items-start mt-[4vw] 
                 md:mt-[2vw] lg:mt-[1vw] xl:mt-[10px] 
