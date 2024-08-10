@@ -39,7 +39,7 @@ const Card = (props: any) => {
                         className='flex gap-2 md:gap-0 md:flex-col 
                             text-[2.5vw] md:text-[1.6vw] 
                             lg:text-[1.4vw] xl:text-[1vw] 2xl:text-[.6vw] 
-                            text-zinc-400 pt-[.5vw] md:pt-[1px]'
+                        text-zinc-400 pt-[.5vw] md:pt-[1px]'
                     >
                             <div>
                                 <h3 className=''>
