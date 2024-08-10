@@ -29,7 +29,7 @@ const Card = (props: any) => {
                     object-cover rounded-full'
                 />
                 <div className='w-full'>
-                        <h1 className='text-[3.6vw] md:text-[1.9vw] 
+                    <h1 className='text-[3.6vw] md:text-[1.9vw] 
                             lg:text-[1.5vw] xl:text-[1vw] 
                             2xl:text-[.7vw] font-medium'
                         >
