@@ -58,7 +58,7 @@ const Card = (props: any) => {
                     className='md:w-[3vw] lg:w-[2.5vw] xl:w-[2vw] text-[#ffffff]'
                 />
             </div>
-        </div>
+    </div>
   )
 }
 
