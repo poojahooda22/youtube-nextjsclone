@@ -45,7 +45,7 @@ const Card = (props: any) => {
                             <h3 className=''>
                                 {props.author}
                             </h3>
-                            </div>
+                        </div>
                             <div className='flex gap-2 '>
                                 <p>{props.views}</p>
                                 <p>{props.timeStamp}</p>
