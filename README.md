@@ -1,7 +1,7 @@
 
 
 
-- [Next.js Documentation](https://next
+- [Next.js Documentation](https://n
 - [Learn Next.js](https://nextjs.org/learn) - an
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions ar
