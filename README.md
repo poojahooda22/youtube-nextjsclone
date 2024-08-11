@@ -5,7 +5,6 @@
 - [Learn Next.js](https://ne
 
 
-
 ## 
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform] from the creators of Next.js.
