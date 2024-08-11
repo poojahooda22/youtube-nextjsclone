@@ -4,7 +4,7 @@
 - [Next.js Documentation](https
 - [Learn Next.js](https://nextjs.org/learn) 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributi
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contrib
 
 ## 
 
