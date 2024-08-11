@@ -55,7 +55,7 @@ const Card = (props: any) => {
             </div>
                 
             <BiDotsVerticalRounded 
-                    size={24}
+                size={24}
                 className='md:w-[3vw] lg:w-[2.5vw] xl:w-[2vw] text-[#ffffff]'
             />
         </div>
