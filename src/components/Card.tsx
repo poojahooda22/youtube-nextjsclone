@@ -42,14 +42,14 @@ const Card = (props: any) => {
                         text-zinc-400 pt-[.5vw] md:pt-[1px]'
                     >
                         <div>
-                                <h3 className=''>
-                                    {props.author}
-                                </h3>
-                            </div>
-                            <div className='flex gap-2 '>
-                                <p>{props.views}</p>
-                                <p>{props.timeStamp}</p>
-                            </div>
+                            <h3 className=''>
+                                {props.author}
+                            </h3>
+                        </div>
+                        <div className='flex gap-2 '>
+                            <p>{props.views}</p>
+                            <p>{props.timeStamp}</p>
+                        </div>
                     </div>
                 </div>
             </div>
