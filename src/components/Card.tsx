@@ -43,7 +43,7 @@ const Card = (props: any) => {
                     >
                         <div>
                             <h3 className=''>
-                                    {props.author}
+                                {props.author}
                             </h3>
                             </div>
                             <div className='flex gap-2 '>
