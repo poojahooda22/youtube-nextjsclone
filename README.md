@@ -1,7 +1,7 @@
 
 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and A
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js 
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
