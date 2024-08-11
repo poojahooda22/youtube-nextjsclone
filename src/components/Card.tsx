@@ -44,7 +44,7 @@ const Card = (props: any) => {
                         <div>
                             <h3 className=''>
                                     {props.author}
-                                </h3>
+                            </h3>
                             </div>
                             <div className='flex gap-2 '>
                                 <p>{props.views}</p>
