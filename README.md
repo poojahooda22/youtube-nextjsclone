@@ -2,7 +2,7 @@
 
 
 - [Next.js Documentation](https
-- [Learn Next.js](https://nextjs
+- [Learn Next.js](https://ne
 
 You can check out [the Next.js GitHub reposit
 
