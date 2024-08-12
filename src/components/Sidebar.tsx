@@ -31,7 +31,9 @@ const Sidebar = () => {
             <h4 className='text-[1.4vw]'>You</h4>
             <IoIosArrowForward size={14} />
         </div>
-        <div></div>
+        <div>
+            
+        </div>
     </div>
   )
 }
