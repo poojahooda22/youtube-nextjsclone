@@ -3,7 +3,7 @@ import { IoMenuSharp } from "react-icons/io5";
 import { GoHomeFill } from "react-icons/go";
 import { SiYoutubeshorts } from "react-icons/si";
 import { MdOutlineSubscriptions } from "react-icons/md";
-
+import { IoIosArrowForward } from "react-icons/io";
 
 const Sidebar = () => {
   return (
