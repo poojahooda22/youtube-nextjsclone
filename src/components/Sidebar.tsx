@@ -54,8 +54,8 @@ const Sidebar = () => {
             <p className='text-[1.3vw]'>Watch later</p>
         </div>
         <div className='flex items-center gap-4 mt-3 px-2'>
-            <MdOutlineWatchLater  size={20} />
-            <p className='text-[1.3vw]'>Watch later</p>
+            <BiLike  size={20} />
+            <p className='text-[1.3vw]'>Liked videos</p>
         </div>
     </div>
   )
