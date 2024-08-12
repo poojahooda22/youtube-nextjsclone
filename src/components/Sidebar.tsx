@@ -35,6 +35,7 @@ const Sidebar = () => {
         </div>
         <div>
             <MdHistory />
+            <p className='text-[1.3vw]'>Subscriptions</p>
         </div>
     </div>
   )
