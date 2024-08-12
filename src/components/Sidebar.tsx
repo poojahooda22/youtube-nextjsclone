@@ -6,6 +6,8 @@ import { MdOutlineSubscriptions } from "react-icons/md";
 import { IoIosArrowForward } from "react-icons/io";
 import { MdHistory } from "react-icons/md";
 import { MdPlaylistPlay } from "react-icons/md";
+import { RiFolderVideoLine } from "react-icons/ri";
+
 
 const Sidebar = () => {
   return (
