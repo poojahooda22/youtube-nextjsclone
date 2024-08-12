@@ -57,6 +57,9 @@ const Sidebar = () => {
             <BiLike  size={20} />
             <p className='text-[1.3vw]'>Liked videos</p>
         </div>
+
+        <div className='w-full h-[1px] bg-zinc-700 mt-4 px-2'></div>
+        <h4 className='text-[1.6vw] mt-3 px-2'>Subscriptions</h4>
     </div>
   )
 }
