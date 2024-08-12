@@ -27,9 +27,9 @@ const Sidebar = () => {
         </div>
         <div className='w-full h-[1px] bg-zinc-700 mt-4'></div>
 
-        <div>
+        <div className='mt-[2vw] flex items-center gap-2'>
             <h4>You</h4>
-            <IoIosArrowForward />
+            <IoIosArrowForward size={14} />
         </div>
     </div>
   )
