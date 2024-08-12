@@ -8,6 +8,8 @@ import { MdHistory } from "react-icons/md";
 import { MdPlaylistPlay } from "react-icons/md";
 import { RiFolderVideoLine } from "react-icons/ri";
 import { MdOutlineWatchLater } from "react-icons/md";
+import { BiLike } from "react-icons/bi";
+
 
 const Sidebar = () => {
   return (
@@ -49,7 +51,7 @@ const Sidebar = () => {
         </div>
         <div className='flex items-center gap-4 mt-3 px-2'>
             <MdOutlineWatchLater  size={20} />
-            <p className='text-[1.3vw]'>Videos</p>
+            <p className='text-[1.3vw]'>Watch later</p>
         </div>
     </div>
   )
