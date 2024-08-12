@@ -29,6 +29,7 @@ const Sidebar = () => {
 
         <div>
             <h4>You</h4>
+            <IoIosArrowForward />
         </div>
     </div>
   )
