@@ -3,6 +3,8 @@ import { IoMenuSharp } from "react-icons/io5";
 import { GoHomeFill } from "react-icons/go";
 import { SiYoutubeshorts } from "react-icons/si";
 import { MdOutlineSubscriptions } from "react-icons/md";
+import { IoIosArrowForward } from "react-icons/io";
+import { MdHistory } from "react-icons/md";
 
 
 const Sidebar = () => {
@@ -26,6 +28,14 @@ const Sidebar = () => {
             <p className='text-[1.3vw]'>Subscriptions</p>
         </div>
         <div className='w-full h-[1px] bg-zinc-700 mt-4'></div>
+
+        <div className='mt-[2vw] flex items-center gap-2'>
+            <h4 className='text-[1.4vw]'>You</h4>
+            <IoIosArrowForward size={14} />
+        </div>
+        <div>
+        <MdHistory />
+        </div>
     </div>
   )
 }
