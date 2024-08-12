@@ -43,7 +43,7 @@ const Sidebar = () => {
         </div>
         <div className='flex items-center gap-4 mt-3 px-2'>
             <MdPlaylistPlay size={20} />
-            <p className='text-[1.3vw]'>History</p>
+            <p className='text-[1.3vw]'>Playlists</p>
         </div>
     </div>
   )
