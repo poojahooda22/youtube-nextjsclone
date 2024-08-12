@@ -5,6 +5,10 @@ import { SiYoutubeshorts } from "react-icons/si";
 import { MdOutlineSubscriptions } from "react-icons/md";
 import { IoIosArrowForward } from "react-icons/io";
 import { MdHistory } from "react-icons/md";
+import { MdPlaylistPlay } from "react-icons/md";
+import { RiFolderVideoLine } from "react-icons/ri";
+import { MdOutlineWatchLater } from "react-icons/md";
+import { BiLike } from "react-icons/bi";
 
 
 const Sidebar = () => {
@@ -38,8 +42,16 @@ const Sidebar = () => {
             <p className='text-[1.3vw]'>History</p>
         </div>
         <div className='flex items-center gap-4 mt-3 px-2'>
-            <MdHistory size={20} />
-            <p className='text-[1.3vw]'>History</p>
+            <MdPlaylistPlay size={20} />
+            <p className='text-[1.3vw]'>Playlists</p>
+        </div>
+        <div className='flex items-center gap-4 mt-3 px-2'>
+            <RiFolderVideoLine  size={20} />
+            <p className='text-[1.3vw]'>Videos</p>
+        </div>
+        <div className='flex items-center gap-4 mt-3 px-2'>
+            <MdOutlineWatchLater  size={20} />
+            <p className='text-[1.3vw]'>Watch later</p>
         </div>
     </div>
   )
