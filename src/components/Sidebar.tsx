@@ -27,15 +27,15 @@ const Sidebar = () => {
             <MdOutlineSubscriptions size={20} />
             <p className='text-[1.3vw]'>Subscriptions</p>
         </div>
-        <div className='w-full h-[1px] bg-zinc-700 mt-4'></div>
+        <div className='w-full h-[1px] bg-zinc-700 mt-4 px-2'></div>
 
         <div className='mt-[2vw] flex items-center gap-2'>
             <h4 className='text-[1.4vw]'>You</h4>
             <IoIosArrowForward size={14} />
         </div>
-        <div>
+        <div className='flex items-center mt-3 px-2'>
             <MdHistory />
-            <p className='text-[1.3vw]'>Subscriptions</p>
+            <p className='text-[1.3vw]'>History</p>
         </div>
     </div>
   )
