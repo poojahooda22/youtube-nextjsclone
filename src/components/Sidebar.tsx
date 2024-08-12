@@ -34,7 +34,7 @@ const Sidebar = () => {
             <IoIosArrowForward size={14} />
         </div>
         <div>
-            
+        <MdHistory />
         </div>
     </div>
   )
