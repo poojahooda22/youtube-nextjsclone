@@ -2,7 +2,7 @@
 
 
 - [Next.js Documentation]
-- [Learn Next.js](https:/
+- [Learn Next.js](http
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform] fro
 
