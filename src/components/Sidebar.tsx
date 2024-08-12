@@ -27,14 +27,19 @@ const Sidebar = () => {
             <MdOutlineSubscriptions size={20} />
             <p className='text-[1.3vw]'>Subscriptions</p>
         </div>
-        <div className='w-full h-[1px] bg-zinc-700 mt-4'></div>
+        <div className='w-full h-[1px] bg-zinc-700 mt-4 px-2'></div>
 
-        <div className='mt-[2vw] flex items-center gap-2'>
-            <h4 className='text-[1.4vw]'>You</h4>
+        <div className='mt-[2vw] flex items-center gap-2 px-2'>
+            <h4 className='text-[1.6vw]'>You</h4>
             <IoIosArrowForward size={14} />
         </div>
-        <div>
-        <MdHistory />
+        <div className='flex items-center  gap-4 mt-3 px-2'>
+            <MdHistory size={20} />
+            <p className='text-[1.3vw]'>History</p>
+        </div>
+        <div className='flex items-center gap-4 mt-3 px-2'>
+            <MdHistory size={20} />
+            <p className='text-[1.3vw]'>History</p>
         </div>
     </div>
   )
