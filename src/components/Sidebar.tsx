@@ -4,6 +4,8 @@ import { GoHomeFill } from "react-icons/go";
 import { SiYoutubeshorts } from "react-icons/si";
 import { MdOutlineSubscriptions } from "react-icons/md";
 import { IoIosArrowForward } from "react-icons/io";
+import { MdHistory } from "react-icons/md";
+
 
 const Sidebar = () => {
   return (
