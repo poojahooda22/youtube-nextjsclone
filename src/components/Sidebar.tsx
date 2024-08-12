@@ -26,6 +26,10 @@ const Sidebar = () => {
             <p className='text-[1.3vw]'>Subscriptions</p>
         </div>
         <div className='w-full h-[1px] bg-zinc-700 mt-4'></div>
+
+        <div>
+            <h4>You</h4>
+        </div>
     </div>
   )
 }
