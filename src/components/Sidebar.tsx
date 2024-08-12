@@ -5,7 +5,7 @@ import { SiYoutubeshorts } from "react-icons/si";
 import { MdOutlineSubscriptions } from "react-icons/md";
 import { IoIosArrowForward } from "react-icons/io";
 import { MdHistory } from "react-icons/md";
-
+import { MdPlaylistPlay } from "react-icons/md";
 
 const Sidebar = () => {
   return (
@@ -36,6 +36,10 @@ const Sidebar = () => {
         <div className='flex items-center  gap-4 mt-3 px-2'>
             <MdHistory size={20} />
             <p className='text-[1.3vw]'>History</p>
+        </div>
+        <div className='flex items-center gap-4 mt-3 px-2'>
+            <MdHistory size={20} />
+            <p className='text-[1.3vw]'>Playlists</p>
         </div>
         <div className='flex items-center gap-4 mt-3 px-2'>
             <MdHistory size={20} />
