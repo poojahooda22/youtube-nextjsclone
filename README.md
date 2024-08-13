@@ -1,5 +1,5 @@
 
 - [N]
-The easiest way to deploy your Next.js ap 
+The easiest way to deploy your Next.j
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more detai
