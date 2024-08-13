@@ -9,7 +9,7 @@ import { MdPlaylistPlay } from "react-icons/md";
 import { RiFolderVideoLine } from "react-icons/ri";
 import { MdOutlineWatchLater } from "react-icons/md";
 import { BiLike } from "react-icons/bi";
-
+import { HiOutlineStatusOnline } from "react-icons/hi";
 
 const Sidebar = () => {
   return (
