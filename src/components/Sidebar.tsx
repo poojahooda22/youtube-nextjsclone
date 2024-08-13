@@ -62,7 +62,7 @@ const Sidebar = () => {
         <h4 className='text-[1.5vw] mt-3 px-2'>Subscriptions</h4>
 
         <div className='flex items-center gap-4 mt-3 px-2'>
-            <img/>
+            <img src="" />
             <p className='text-[1.3vw]'>Liked videos</p>
         </div>
 
