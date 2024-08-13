@@ -76,10 +76,12 @@ const Sidebar = () => {
             <HiOutlineStatusOnline size={20} color='red' />
         </div>
         <div className='flex items-center gap-4 mt-3 px-2'>
-            <div></div>
+            <div>
+                <img src="/express.jpg" className='w-[2.4vw] h-[2.4vw] rounded-full' />
+                <p className='text-[1.3vw]'>Indian Expr..</p>
+            </div>
 
-            <img src="/express.jpg" className='w-[2.4vw] h-[2.4vw] rounded-full' />
-            <p className='text-[1.3vw]'>Indian Expr..</p>
+            
             <HiOutlineStatusOnline size={20} color='red' />
         </div>
 
