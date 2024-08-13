@@ -63,7 +63,7 @@ const Sidebar = () => {
 
         <div className='flex items-center gap-4 mt-3 px-2'>
             <img src="" />
-            <p className='text-[1.3vw]'>Liked videos</p>
+            <p className='text-[1.3vw]'>NDTV India</p>
         </div>
 
     </div>
