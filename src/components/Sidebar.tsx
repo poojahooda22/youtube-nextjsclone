@@ -9,7 +9,7 @@ import { MdPlaylistPlay } from "react-icons/md";
 import { RiFolderVideoLine } from "react-icons/ri";
 import { MdOutlineWatchLater } from "react-icons/md";
 import { BiLike } from "react-icons/bi";
-
+import { HiOutlineStatusOnline } from "react-icons/hi";
 
 const Sidebar = () => {
   return (
@@ -62,8 +62,17 @@ const Sidebar = () => {
         <h4 className='text-[1.5vw] mt-3 px-2'>Subscriptions</h4>
 
         <div className='flex items-center gap-4 mt-3 px-2'>
-            <img src="/ndtv.jpg" className='w-[2vw]' />
+            <img src="/ndtv.jpg" className='w-[2.4vw] h-[2.4vw] rounded-full' />
             <p className='text-[1.3vw]'>NDTV India</p>
+            <HiOutlineStatusOnline  />
+        </div>
+        <div className='flex items-center gap-4 mt-3 px-2'>
+            <img src="/nbc.jpg" className='w-[2.4vw] h-[2.4vw] rounded-full' />
+            <p className='text-[1.3vw]'>NBC News</p>
+        </div>
+        <div className='flex items-center gap-4 mt-3 px-2'>
+            <img src="/express.jpg" className='w-[2.4vw] h-[2.4vw] rounded-full' />
+            <p className='text-[1.3vw]'>Indian Expr..</p>
         </div>
 
     </div>
