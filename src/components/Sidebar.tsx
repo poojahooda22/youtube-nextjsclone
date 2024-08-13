@@ -13,7 +13,7 @@ import { HiOutlineStatusOnline } from "react-icons/hi";
 
 const Sidebar = () => {
   return (
-    <div className='absolute top-0 w-[20vw] h-full bg-zinc-900 py-[1.5vw] px-[1.5vw]'>
+    <div className='absolute top-0 w-[22vw] h-full bg-zinc-900 py-[1.5vw] px-[1.5vw]'>
         <div className='flex items-start'>
             <IoMenuSharp size={28} color='#999999' className='hidden sm:block' />  
             <img src="/ytlogo.svg" alt="logo" className='w-28 h-8' />  
@@ -61,9 +61,11 @@ const Sidebar = () => {
         <div className='w-full h-[1px] bg-zinc-700 mt-4 px-2'></div>
         <h4 className='text-[1.5vw] mt-3 px-2'>Subscriptions</h4>
 
-        <div className='flex items-center gap-4 mt-3 px-2'>
-            <img src="/ndtv.jpg" className='w-[2.4vw] h-[2.4vw] rounded-full' />
-            <p className='text-[1.3vw]'>NDTV India</p>
+        <div className='flex items-center justify-between gap-4 mt-3 px-2'>
+            <div className='flex items-center gap-4'>
+                <img src="/ndtv.jpg" className='w-[2.4vw] h-[2.4vw] rounded-full' />
+                <p className='text-[1.3vw]'>NDTV India</p>
+            </div>        
             <HiOutlineStatusOnline size={20} color='red' />
         </div>
         <div className='flex items-center gap-4 mt-3 px-2'>
