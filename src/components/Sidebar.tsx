@@ -68,12 +68,11 @@ const Sidebar = () => {
             </div>        
             <HiOutlineStatusOnline size={20} color='red' />
         </div>
-        <div className='flex items-center gap-4 mt-3 px-2'>
-            <div>
+        <div className='flex items-center  gap-4 mt-3 px-2'>
+            <div className='flex items-center gap-4'>
                 <img src="/nbc.jpg" className='w-[2.4vw] h-[2.4vw] rounded-full' />
                 <p className='text-[1.3vw]'>NBC News</p>
             </div>
-            
             <HiOutlineStatusOnline size={20} color='red' />
         </div>
         <div className='flex items-center gap-4 mt-3 px-2'>
