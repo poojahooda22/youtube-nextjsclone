@@ -80,8 +80,7 @@ const Sidebar = () => {
                 <img src="/express.jpg" className='w-[2.4vw] h-[2.4vw] rounded-full' />
                 <p className='text-[1.3vw]'>Indian Expr..</p>
             </div>
-
-            
+ 
             <HiOutlineStatusOnline size={20} color='red' />
         </div>
 
