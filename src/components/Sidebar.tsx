@@ -64,6 +64,7 @@ const Sidebar = () => {
         <div className='flex items-center gap-4 mt-3 px-2'>
             <img src="/ndtv.jpg" className='w-[2.4vw] h-[2.4vw] rounded-full' />
             <p className='text-[1.3vw]'>NDTV India</p>
+            <HiOutlineStatusOnline  />
         </div>
         <div className='flex items-center gap-4 mt-3 px-2'>
             <img src="/nbc.jpg" className='w-[2.4vw] h-[2.4vw] rounded-full' />
