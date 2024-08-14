@@ -34,7 +34,7 @@ const Sidebar = () => {
         <div className='w-full h-[1px] bg-zinc-700 mt-4 px-2'></div>
 
         <div className='mt-[2vw] flex items-center gap-2 px-2'>
-            <h4 className='text-[1.6vw]'>You</h4>
+            
             <IoIosArrowForward size={14} />
         </div>
         <div className='flex items-center  gap-4 mt-3 px-2'>
