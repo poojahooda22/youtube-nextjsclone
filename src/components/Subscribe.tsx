@@ -29,7 +29,7 @@ const Subscribe = () => {
         </div>
         <div className='flex items-center mt-3 px-2'>
             <div><IoIosArrowDown size={16} /></div>
-            
+            <p className='text-[1.3vw]'>NBC News</p>
         </div>
     </div>
   )
