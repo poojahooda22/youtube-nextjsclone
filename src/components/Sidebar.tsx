@@ -36,7 +36,7 @@ const Sidebar = () => {
 
         <div className='flex items-center gap-4 mt-3 px-2'>
             
-            <p className='text-[1.3vw]'>Videos</p>
+            
         </div>
         <div className='flex items-center gap-4 mt-3 px-2'>
             <MdOutlineWatchLater  size={20} />
