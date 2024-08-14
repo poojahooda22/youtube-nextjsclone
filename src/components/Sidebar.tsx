@@ -63,10 +63,7 @@ const Sidebar = () => {
 
         
 
-        <div className='flex items-center justify-between gap-4 mt-3 px-2'>
-            
-            
-        </div>
+
 
     </div>
   )
