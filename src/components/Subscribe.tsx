@@ -27,8 +27,9 @@ const Subscribe = () => {
             </div>
             <HiOutlineStatusOnline size={20} color='red' />
         </div>
-        <div className='flex items-center'>
-            <IoIosArrowDown size={14} />
+        <div className='flex items-center mt-3 px-2'>
+            <div></div>
+            <IoIosArrowDown size={16} />
         </div>
     </div>
   )
