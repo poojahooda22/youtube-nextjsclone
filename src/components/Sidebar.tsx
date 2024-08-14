@@ -63,9 +63,7 @@ const Sidebar = () => {
 
         
         <div className='flex items-center  justify-between  gap-4 mt-3 px-2'>
-            <div className='flex items-center gap-4'>
-                
-            </div>
+            
             <HiOutlineStatusOnline size={20} color='red' />
         </div>
         <div className='flex items-center justify-between gap-4 mt-3 px-2'>
