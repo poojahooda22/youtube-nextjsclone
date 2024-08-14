@@ -1,6 +1,6 @@
 import React from 'react'
 import { HiOutlineStatusOnline } from "react-icons/hi";
-
+import { IoIosArrowDown } from "react-icons/io";
 
 
 const Subscribe = () => {
@@ -26,6 +26,9 @@ const Subscribe = () => {
                 <p className='text-[1.3vw]'>Indian Expr..</p>
             </div>
             <HiOutlineStatusOnline size={20} color='red' />
+        </div>
+        <div className='flex items-center'>
+            <IoIosArrowDown />
         </div>
     </div>
   )
