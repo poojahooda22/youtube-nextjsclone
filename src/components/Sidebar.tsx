@@ -37,7 +37,7 @@ const Sidebar = () => {
 
         <div className='flex items-center gap-4 mt-3 px-2'>
             
-            <p className='text-[1.3vw]'>Liked videos</p>
+           
         </div>
 
         <div className='w-full h-[1px] bg-zinc-700 mt-4 px-2'></div>
