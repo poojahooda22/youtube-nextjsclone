@@ -33,8 +33,7 @@ const Sidebar = () => {
         </div>
         <div className='w-full h-[1px] bg-zinc-700 mt-4 px-2'></div>
 
-        <div className='mt-[2vw] flex items-center gap-2 px-2'>  
-        </div>
+
         <div className='flex items-center  gap-4 mt-3 px-2'>
             <MdHistory size={20} />
             <p className='text-[1.3vw]'>History</p>
