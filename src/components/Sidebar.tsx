@@ -10,6 +10,7 @@ import { RiFolderVideoLine } from "react-icons/ri";
 import { MdOutlineWatchLater } from "react-icons/md";
 import { BiLike } from "react-icons/bi";
 import { HiOutlineStatusOnline } from "react-icons/hi";
+import Channel from './Channel';
 
 const Sidebar = () => {
   return (
@@ -34,7 +35,7 @@ const Sidebar = () => {
         <div className='w-full h-[1px] bg-zinc-700 mt-4 px-2'></div>
 
 
-        
+        <Channel/>
 
         <div className='w-full h-[1px] bg-zinc-700 mt-4 px-2'></div>
         <h4 className='text-[1.5vw] mt-3 px-2'>Subscriptions</h4>
