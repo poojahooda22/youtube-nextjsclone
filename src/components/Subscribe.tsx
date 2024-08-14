@@ -28,7 +28,7 @@ const Subscribe = () => {
             <HiOutlineStatusOnline size={20} color='red' />
         </div>
         <div>
-            
+        <IoIosArrowDown />
         </div>
     </div>
   )
