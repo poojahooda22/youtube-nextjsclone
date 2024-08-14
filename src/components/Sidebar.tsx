@@ -35,7 +35,7 @@ const Sidebar = () => {
 
         <div className='mt-[2vw] flex items-center gap-2 px-2'>
             
-            <IoIosArrowForward size={14} />
+            
         </div>
         <div className='flex items-center  gap-4 mt-3 px-2'>
             <MdHistory size={20} />
