@@ -4,6 +4,8 @@ import { MdOutlineShoppingBag } from "react-icons/md";
 import { IoMusicalNoteOutline } from "react-icons/io5";
 import { PiFilmSlate } from "react-icons/pi";
 import { HiOutlineStatusOnline } from "react-icons/hi";
+import { SiYoutubegaming } from "react-icons/si";
+
 
 const Explore = () => {
   return (
