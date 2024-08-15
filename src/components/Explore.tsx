@@ -13,7 +13,7 @@ const Explore = () => {
         </div>
 
         <div className='mt-[2vw] flex items-center gap-2 px-2'>
-            <MdOutlineShoppingBag />
+            <MdOutlineShoppingBag size={20} />
         </div>
     </div>
   )
