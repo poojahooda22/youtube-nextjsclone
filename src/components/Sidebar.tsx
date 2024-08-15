@@ -12,6 +12,7 @@ import { BiLike } from "react-icons/bi";
 import { HiOutlineStatusOnline } from "react-icons/hi";
 import Channel from './Channel';
 import Subscribe from './Subscribe';
+import Explore from './Explore';
 
 const Sidebar = () => {
   return (
@@ -43,7 +44,7 @@ const Sidebar = () => {
         <Subscribe/>
 
         <div className='w-full h-[1px] bg-zinc-700 mt-4 px-2'></div>
-        
+        <Explore/>
 
     </div>
   )
