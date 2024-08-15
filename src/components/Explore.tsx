@@ -1,5 +1,8 @@
 import React from 'react';
 import { LiaFireSolid } from "react-icons/lia";
+import { MdOutlineShoppingBag } from "react-icons/md";
+
+
 
 const Explore = () => {
   return (
@@ -8,7 +11,10 @@ const Explore = () => {
             <LiaFireSolid size={14} />
             <h4 className='text-[1vw]'>Trending</h4>
         </div>
-        
+
+        <div>
+
+        </div>
     </div>
   )
 }
