@@ -9,7 +9,7 @@ const Explore = () => {
     <div>
         <div className='mt-[2vw] flex items-center gap-2 px-2'>  
             <LiaFireSolid size={20} />
-            <h4 className='text-[1vw]'>Trending</h4>
+            <h4 className='text-[1.6vw]'>Trending</h4>
         </div>
 
         <div>
