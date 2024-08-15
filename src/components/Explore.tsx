@@ -2,7 +2,7 @@ import React from 'react';
 import { LiaFireSolid } from "react-icons/lia";
 import { MdOutlineShoppingBag } from "react-icons/md";
 import { IoMusicalNoteOutline } from "react-icons/io5";
-
+import { PiFilmSlate } from "react-icons/pi";
 
 const Explore = () => {
   return (
