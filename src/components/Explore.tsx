@@ -8,6 +8,7 @@ const Explore = () => {
             <LiaFireSolid size={14} />
             <h4 className='text-[1vw]'>Trending</h4>
         </div>
+        
     </div>
   )
 }
