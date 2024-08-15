@@ -12,7 +12,7 @@ const Explore = () => {
             <h4 className='text-[1.6vw]'>Trending</h4>
         </div>
 
-        <div>
+        <div className='mt-[2vw] flex items-center gap-2 px-2'>
             <MdOutlineShoppingBag />
         </div>
     </div>
