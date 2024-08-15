@@ -1,4 +1,4 @@
 
 
 
-Check out our [Next.js deployment docume
+Check out our [Next.js deployment doc
