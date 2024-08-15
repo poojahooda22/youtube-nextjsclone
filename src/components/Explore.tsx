@@ -13,7 +13,7 @@ const Explore = () => {
         </div>
 
         <div>
-
+        <MdOutlineShoppingBag />
         </div>
     </div>
   )
