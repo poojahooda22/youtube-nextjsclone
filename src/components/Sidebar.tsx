@@ -13,6 +13,7 @@ import { HiOutlineStatusOnline } from "react-icons/hi";
 import Channel from './Channel';
 import Subscribe from './Subscribe';
 import Explore from './Explore';
+import YouTube from './YouTube';
 
 const Sidebar = () => {
   return (
@@ -47,6 +48,7 @@ const Sidebar = () => {
         <Explore/>
 
         <div className='w-full h-[1px] bg-zinc-700 mt-4 px-2'></div>
+        <YouTube/>
 
     </div>
   )
