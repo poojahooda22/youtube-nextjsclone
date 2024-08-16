@@ -11,7 +11,7 @@ const Navbar = () => {
     <div className='flex items-center justify-between py-[1vw] px-[1vw]'>
       <div className=' flex items-start'>
         <IoMenuSharp size={30} 
-        color='#999999' className='hidden sm:block' />  
+          color='#999999' className='hidden sm:block' />  
         <img src="/ytlogo.svg" alt="logo" className='w-28 h-8' />  
       </div>
 
