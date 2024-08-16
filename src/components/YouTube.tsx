@@ -1,6 +1,7 @@
 import React from 'react'
 import { TbBrandYoutubeKids } from "react-icons/tb";
 import { SiYoutubestudio } from "react-icons/si";
+import { SiYoutubemusic } from "react-icons/si";
 
 const YouTube = () => {
   return (
