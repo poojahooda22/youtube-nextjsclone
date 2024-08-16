@@ -26,7 +26,7 @@ const Explore = () => {
         </div>
 
         <div className='mt-[2vw] flex items-center gap-4 px-2'>
-            <IoMusicalNoteOutline size={20} />
+            <IoMusicalNoteOutline size={20}/>
             <h4 className='text-[1.3vw]'>Music</h4>
         </div>
 
