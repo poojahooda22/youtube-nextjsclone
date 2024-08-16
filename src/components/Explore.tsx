@@ -7,7 +7,7 @@ import { HiOutlineStatusOnline } from "react-icons/hi";
 import { SiYoutubegaming } from "react-icons/si";
 import { BiNews } from "react-icons/bi";
 import { GoTrophy } from "react-icons/go";
-
+import { MdOutlinePodcasts } from "react-icons/md";
 
 
 
