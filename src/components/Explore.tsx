@@ -6,6 +6,11 @@ import { PiFilmSlate } from "react-icons/pi";
 import { HiOutlineStatusOnline } from "react-icons/hi";
 import { SiYoutubegaming } from "react-icons/si";
 import { BiNews } from "react-icons/bi";
+import { GoTrophy } from "react-icons/go";
+
+
+
+
 
 const Explore = () => {
   return (
@@ -38,6 +43,16 @@ const Explore = () => {
         <div className='mt-[2vw] flex items-center gap-4 px-2'>
             <SiYoutubegaming size={20} />
             <h4 className='text-[1.3vw]'>Gaming</h4>
+        </div>
+
+        <div className='mt-[2vw] flex items-center gap-4 px-2'>
+            <BiNews  size={20} />
+            <h4 className='text-[1.3vw]'>News</h4>
+        </div>
+
+        <div className='mt-[2vw] flex items-center gap-4 px-2'>
+            <GoTrophy size={20} />
+            <h4 className='text-[1.3vw]'>Sports</h4>
         </div>
     </div>
   )
