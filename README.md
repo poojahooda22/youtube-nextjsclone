@@ -1,1 +1,1 @@
-Next js + Ty
+Next js + Type
