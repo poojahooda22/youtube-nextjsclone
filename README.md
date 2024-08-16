@@ -1,1 +1,1 @@
-Next js + Typescr
+Next js + Typescrip
