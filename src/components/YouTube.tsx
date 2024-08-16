@@ -12,7 +12,7 @@ const YouTube = () => {
         </div>
 
         <div className='mt-[2vw] flex items-center gap-4 px-2'>
-            <SiYoutubestudio  size={20} />
+            <SiYoutubestudio size={20} />
             <h4 className='text-[1.3vw]'>Youtube studio</h4>
         </div>
 
