@@ -10,29 +10,34 @@ import { SiYoutubegaming } from "react-icons/si";
 const Explore = () => {
   return (
     <div>
-        <div className='mt-[2vw] flex items-center gap-2 px-2'>  
+        <div className='mt-[2vw] flex items-center gap-4 px-2'>  
             <LiaFireSolid size={20} />
             <h4 className='text-[1.3vw]'>Trending</h4>
         </div>
 
-        <div className='mt-[2vw] flex items-center gap-2 px-2'>
+        <div className='mt-[2vw] flex items-center gap-4 px-2'>
             <MdOutlineShoppingBag size={20} />
             <h4 className='text-[1.3vw]'>Shopping</h4>
         </div>
 
-        <div className='mt-[2vw] flex items-center gap-2 px-2'>
+        <div className='mt-[2vw] flex items-center gap-4 px-2'>
             <IoMusicalNoteOutline size={20} />
             <h4 className='text-[1.3vw]'>Music</h4>
         </div>
 
-        <div className='mt-[2vw] flex items-center gap-2 px-2'>
+        <div className='mt-[2vw] flex items-center gap-4 px-2'>
             <PiFilmSlate size={20} />
             <h4 className='text-[1.3vw]'>Films</h4>
         </div>
 
-        <div className='mt-[2vw] flex items-center gap-2 px-2'>
+        <div className='mt-[2vw] flex items-center gap-4 px-2'>
             <HiOutlineStatusOnline size={20} />
             <h4 className='text-[1.3vw]'>Live</h4>
+        </div>
+
+        <div className='mt-[2vw] flex items-center gap-4 px-2'>
+            <SiYoutubegaming size={20} />
+            <h4 className='text-[1.3vw]'>Gaming</h4>
         </div>
     </div>
   )
