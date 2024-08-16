@@ -8,12 +8,12 @@ const YouTube = () => {
     <div>
         <div className='mt-[2vw] flex items-center gap-4 px-2'>
             <TbBrandYoutubeKids  size={20} />
-            <h4 className='text-[1.3vw]'>News</h4>
+            <h4 className='text-[1.3vw]'>Youtube News</h4>
         </div>
 
         <div className='mt-[2vw] flex items-center gap-4 px-2'>
             <SiYoutubestudio  size={20} />
-            <h4 className='text-[1.3vw]'>News</h4>
+            <h4 className='text-[1.3vw]'></h4>
         </div>
 
         <div className='mt-[2vw] flex items-center gap-4 px-2'>
