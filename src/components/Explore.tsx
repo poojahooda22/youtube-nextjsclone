@@ -5,7 +5,7 @@ import { IoMusicalNoteOutline } from "react-icons/io5";
 import { PiFilmSlate } from "react-icons/pi";
 import { HiOutlineStatusOnline } from "react-icons/hi";
 import { SiYoutubegaming } from "react-icons/si";
-
+import { BiNews } from "react-icons/bi";
 
 const Explore = () => {
   return (
