@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <main className="py-[1vw]">
       <Navbar />
-      <Sidebar/>
+      {/* <Sidebar/> */}
       {/* <VideoGrid /> */}
     </main>
   );
