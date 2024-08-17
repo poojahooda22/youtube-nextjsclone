@@ -32,7 +32,8 @@ const Sidebar = () => {
         >
             <GoHomeFill size={20} />
             <p className='text-[1.3vw]'>
-                Home</p>
+                Home
+                </p>
         </div>
         <div className='flex items-center gap-4 mt-3 px-2'>
             <SiYoutubeshorts size={20} />
