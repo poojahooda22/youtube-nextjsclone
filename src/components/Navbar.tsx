@@ -1,3 +1,5 @@
+'use client'
+
 import React from 'react'
 import Searchbar from './Searchbar';
 import Avatar from '@mui/material/Avatar';
@@ -13,6 +15,7 @@ const Navbar = () => {
         <IoMenuSharp size={30} 
           color='#999999' 
           className='hidden sm:block'
+          onClick={() => console.log('menu clicked')}
         />  
         <img src="/ytlogo.svg" alt="logo" className='w-28 h-8' />  
       </div>
