@@ -21,7 +21,8 @@ const Sidebar = () => {
         <div className='flex items-start'>
             <IoMenuSharp 
                 size={28} 
-                color='#999999' className='hidden sm:block' />  
+                color='#999999' 
+                className='hidden sm:block' />  
             <img src="/ytlogo.svg" alt="logo" className='w-28 h-8' />  
         </div>
         <div 
