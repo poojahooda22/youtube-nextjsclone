@@ -30,7 +30,8 @@ const Sidebar = () => {
             <img 
                 src="/ytlogo.svg" 
                 alt="logo" 
-                className='w-28 h-8' />  
+                className='w-28 h-8' 
+                />  
         </div>
         <div 
             className='flex items-center gap-4 mt-6 
