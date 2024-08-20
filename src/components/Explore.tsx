@@ -54,7 +54,8 @@ const Explore = () => {
                 size={20} 
             />
             <h4 className='text-[1.3vw]'>
-                Live</h4>
+                Live
+                </h4>
         </div>
 
         <div className='mt-[2vw] flex items-center gap-4 px-2'>
