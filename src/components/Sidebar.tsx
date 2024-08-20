@@ -30,7 +30,8 @@ const Sidebar = () => {
             className='flex items-center gap-4 mt-6 
             bg-zinc-800 py-[1.1vw] px-2 rounded-lg'
         >
-            <GoHomeFill size={20} />
+            <GoHomeFill 
+            size={20} />
             <p className='text-[1.3vw]'>
                 Home
             </p>
