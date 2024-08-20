@@ -17,20 +17,29 @@ import YouTube from './YouTube';
 
 const Sidebar = () => {
   return (
-    <div className='absolute top-0 w-[22vw] h-full bg-zinc-900 py-[1.5vw] px-[1.5vw]'>
+    <div 
+        className='absolute top-0 w-[22vw] 
+        h-full bg-zinc-900 py-[1.5vw] px-[1.5vw]'
+    >
         <div className='flex items-start'>
             <IoMenuSharp 
                 size={28} 
                 color='#999999' 
                 className='hidden sm:block' 
             />  
-            <img src="/ytlogo.svg" alt="logo" className='w-28 h-8' />  
+            <img 
+                src="/ytlogo.svg" 
+                alt="logo" 
+                className='w-28 h-8' 
+            />  
         </div>
         <div 
             className='flex items-center gap-4 mt-6 
             bg-zinc-800 py-[1.1vw] px-2 rounded-lg'
         >
-            <GoHomeFill size={20} />
+            <GoHomeFill 
+                size={20}
+            />
             <p className='text-[1.3vw]'>
                 Home
             </p>
@@ -45,15 +54,16 @@ const Sidebar = () => {
             <MdOutlineSubscriptions size={20} />
             <p className='text-[1.3vw]'>
                 Subscriptions
-                </p>
+            </p>
         </div>
         <div className='w-full h-[1px] bg-zinc-700 mt-4 px-2'></div>
-
 
         <Channel/>
 
         <div className='w-full h-[1px] bg-zinc-700 mt-4 px-2'></div>
-        <h4 className='text-[1.5vw] mt-3 px-2'>Subscriptions</h4>
+        <h4 className='text-[1.5vw] mt-3 px-2'>
+            Subscriptions
+        </h4>
         <Subscribe/>
 
         <div className='w-full h-[1px] bg-zinc-700 mt-4 px-2'></div>
