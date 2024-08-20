@@ -19,7 +19,8 @@ const Sidebar = () => {
   return (
     <div 
         className='absolute top-0 w-[22vw] 
-        h-full bg-zinc-900 py-[1.5vw] px-[1.5vw]'>
+        h-full bg-zinc-900 py-[1.5vw] px-[1.5vw]'
+        >
         <div className='flex items-start'>
             <IoMenuSharp 
                 size={28} 
