@@ -55,7 +55,7 @@ const Sidebar = () => {
         <div className='w-full h-[1px] bg-zinc-700 mt-4 px-2'></div>
         <h4 className='text-[1.5vw] mt-3 px-2'>
             Subscriptions
-            </h4>
+        </h4>
         <Subscribe/>
 
         <div className='w-full h-[1px] bg-zinc-700 mt-4 px-2'></div>
