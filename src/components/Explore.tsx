@@ -62,7 +62,8 @@ const Explore = () => {
             <SiYoutubegaming 
                 size={20} 
             />
-            <h4 className='text-[1.3vw]'>Gaming</h4>
+            <h4 className='text-[1.3vw]'>
+                Gaming</h4>
         </div>
 
         <div className='mt-[2vw] flex items-center gap-4 px-2'>
