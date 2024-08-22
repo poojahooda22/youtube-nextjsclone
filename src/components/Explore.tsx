@@ -95,7 +95,7 @@ const Explore = () => {
             />
             <h4 className='text-[1.3vw]'>
                 Podcasts
-                </h4>
+            </h4>
         </div>
     </div>
   )
