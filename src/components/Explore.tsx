@@ -13,6 +13,7 @@ import { MdOutlinePodcasts } from "react-icons/md";
 const Explore = () => {
   return (
     <div>
+        {/* add the icon*/}
         <div className='mt-[2vw] flex items-center gap-4 px-2'>  
             <LiaFireSolid 
                 size={20} 
