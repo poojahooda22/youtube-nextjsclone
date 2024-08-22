@@ -87,7 +87,8 @@ const Explore = () => {
 
         <div 
             className='mt-[2vw] flex items-center 
-            gap-4 px-2'>
+            gap-4 px-2'
+            >
             <MdOutlinePodcasts size={20} />
             <h4 className='text-[1.3vw]'>Podcasts</h4>
         </div>
