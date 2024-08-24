@@ -22,7 +22,8 @@ const Navbar = () => {
 
       <div className='sm:hidden pr-[2vw]'><IoSearch size={26} color='#999999' /></div>
       <div className='w-2/3 hidden md:block'>
-        <Searchbar/></div>
+        <Searchbar/>
+        </div>
       <div className='sm:flex items-start gap-4 hidden'>
         <RiVideoAddLine size={28} color='#999999' />
         <div className='relative'>
