@@ -18,7 +18,7 @@ const Navbar = () => {
           onClick={() => console.log('menu clicked')}
         />  
         <img 
-        src="/ytlogo.svg" alt="logo" className='w-28 h-8' />  
+          src="/ytlogo.svg" alt="logo" className='w-28 h-8' />  
       </div>
 
       <div className='sm:hidden pr-[2vw]'>
