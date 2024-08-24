@@ -28,7 +28,7 @@ const Navbar = () => {
         <RiVideoAddLine size={28} color='#999999' />
         <div className='relative'>
           <IoMdNotificationsOutline 
-          size={30} color='#999999' />
+            size={30} color='#999999' />
           <div className='absolute top-0 right-[-.7vw] w-6 h-4 bg-red-600 
           rounded-full flex items-center justify-center text-[1.3vw]'>9+</div>
         </div>
