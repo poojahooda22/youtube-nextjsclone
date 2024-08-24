@@ -25,7 +25,7 @@ const Navbar = () => {
         <Searchbar/>
       </div>
       <div className='sm:flex items-start gap-4 hidden'>
-        <RiVideoAddLine size={28} color='#999999' />
+        <RiVideoAddLine size={28} color='#999999'/>
         <div className='relative'>
           <IoMdNotificationsOutline 
             size={30} 
@@ -40,7 +40,11 @@ const Navbar = () => {
             9+
           </div>
         </div>
-        <Avatar sx={{ width: 32, height: 32 }}>P</Avatar>
+        <Avatar 
+          sx={{ width: 32, height: 32 }}
+        >
+          P
+        </Avatar>
       </div>
     </div>
   )
