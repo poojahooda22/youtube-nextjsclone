@@ -23,9 +23,11 @@ const Navbar = () => {
           className='w-28 h-8' 
         />  
       </div>
-
       <div className='sm:hidden pr-[2vw]'>
-        <IoSearch size={26} color='#999999'/>
+        <IoSearch 
+          size={26} 
+          color='#999999'
+        />
       </div>
       <div className='w-2/3 hidden md:block'>
         <Searchbar/>
