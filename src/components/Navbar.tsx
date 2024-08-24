@@ -35,7 +35,8 @@ const Navbar = () => {
             className='absolute top-0 right-[-.7vw] 
             w-6 h-4 bg-red-600 
             rounded-full flex items-center 
-            justify-center text-[1.3vw]'>9+</div>
+            justify-center text-[1.3vw]'
+            >9+</div>
         </div>
         <Avatar sx={{ width: 32, height: 32 }}>P</Avatar>
       </div>
