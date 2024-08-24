@@ -41,7 +41,7 @@ const Navbar = () => {
           </div>
         </div>
         <Avatar 
-        sx={{ width: 32, height: 32 }}>P</Avatar>
+          sx={{ width: 32, height: 32 }}>P</Avatar>
       </div>
     </div>
   )
