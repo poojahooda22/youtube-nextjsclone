@@ -37,7 +37,8 @@ const Navbar = () => {
             rounded-full flex items-center 
             justify-center text-[1.3vw]'
           >
-            9+</div>
+            9+
+            </div>
         </div>
         <Avatar sx={{ width: 32, height: 32 }}>P</Avatar>
       </div>
