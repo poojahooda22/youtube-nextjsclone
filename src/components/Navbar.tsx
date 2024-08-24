@@ -27,7 +27,7 @@ const Navbar = () => {
         <IoSearch 
           size={26} 
           color='#999999'
-          />
+        />
       </div>
       <div className='w-2/3 hidden md:block'>
         <Searchbar/>
