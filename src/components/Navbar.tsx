@@ -40,7 +40,8 @@ const Navbar = () => {
             9+
           </div>
         </div>
-        <Avatar sx={{ width: 32, height: 32 }}>P</Avatar>
+        <Avatar 
+        sx={{ width: 32, height: 32 }}>P</Avatar>
       </div>
     </div>
   )
