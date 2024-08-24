@@ -21,11 +21,14 @@ const Navbar = () => {
       </div>
 
       <div className='sm:hidden pr-[2vw]'><IoSearch size={26} color='#999999' /></div>
-      <div className='w-2/3 hidden md:block'><Searchbar/></div>
+      <div className='w-2/3 hidden md:block'>
+        <Searchbar/>
+      </div>
       <div className='sm:flex items-start gap-4 hidden'>
         <RiVideoAddLine size={28} color='#999999' />
         <div className='relative'>
-          <IoMdNotificationsOutline size={30} color='#999999' />
+          <IoMdNotificationsOutline 
+          size={30} color='#999999' />
           <div className='absolute top-0 right-[-.7vw] w-6 h-4 bg-red-600 
           rounded-full flex items-center justify-center text-[1.3vw]'>9+</div>
         </div>
