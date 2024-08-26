@@ -15,7 +15,7 @@ const Navbar = () => {
         <IoMenuSharp size={30} 
           color='#999999' 
           className='hidden sm:block'
-          onClick={() => conso}
+          onClick={() => cons}
         />  
         <img 
           src="/ytlogo.svg" 
