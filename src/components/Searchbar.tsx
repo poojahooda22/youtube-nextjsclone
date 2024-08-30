@@ -14,7 +14,8 @@ const Searchbar = () => {
                     rounded-full border-s-gray-50 border-s-2 
                     border border-gray-300 
                     focus:ring-blue-500
-                    focus:border-blue-500 dark:bg-gray-900 
+                    focus:border-blue-500 
+                    dark:bg-gray-900 
                     dark:border-s-gray-700  
                     dark:border-gray-600 
                     dark:placeholder-gray-400 
