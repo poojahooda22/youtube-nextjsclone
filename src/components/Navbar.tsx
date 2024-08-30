@@ -40,7 +40,8 @@ const Navbar = () => {
         <Searchbar/>
       </div>
       <div 
-        className='sm:flex items-start 
+        className='sm:flex 
+        items-start 
         gap-4 hidden'
       >
         <RiVideoAddLine 
