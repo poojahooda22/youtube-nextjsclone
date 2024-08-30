@@ -29,7 +29,8 @@ const Navbar = () => {
         />
       </div>
       <div 
-        className='w-2/3 hidden md:block'
+        className='w-2/3 hidden 
+        md:block'
       >
         <Searchbar/>
       </div>
