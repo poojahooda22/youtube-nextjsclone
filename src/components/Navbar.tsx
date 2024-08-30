@@ -39,7 +39,8 @@ const Navbar = () => {
         gap-4 hidden'
       >
         <RiVideoAddLine 
-          size={28} color='#999999'/>
+          size={28} 
+          color='#999999'/>
         <div className='relative'>
           <IoMdNotificationsOutline 
             size={30} 
