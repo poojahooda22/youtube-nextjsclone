@@ -30,7 +30,7 @@ const Navbar = () => {
       </div>
       <div 
         className='w-2/3 hidden md:block'
-        >
+      >
         <Searchbar/>
       </div>
       <div className='sm:flex items-start gap-4 hidden'>
