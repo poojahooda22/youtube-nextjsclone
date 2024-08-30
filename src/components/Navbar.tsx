@@ -38,7 +38,8 @@ const Navbar = () => {
         className='sm:flex items-start 
         gap-4 hidden'
       >
-        <RiVideoAddLine size={28} color='#999999'/>
+        <RiVideoAddLine 
+        size={28} color='#999999'/>
         <div className='relative'>
           <IoMdNotificationsOutline 
             size={30} 
