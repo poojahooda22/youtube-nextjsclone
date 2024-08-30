@@ -42,7 +42,8 @@ const Navbar = () => {
           size={28} 
           color='#999999'
         />
-        <div className='relative'>
+        <div 
+        className='relative'>
           <IoMdNotificationsOutline 
             size={30} 
             color='#999999' 
