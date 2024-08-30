@@ -43,7 +43,7 @@ const Navbar = () => {
           color='#999999'
         />
         <div 
-        className='relative'>
+          className='relative'>
           <IoMdNotificationsOutline 
             size={30} 
             color='#999999' 
