@@ -16,7 +16,7 @@ const Searchbar = () => {
                     dark:bg-gray-900 dark:border-s-gray-700 dark:border-gray-600
                     dark:placeholder-gray-400 dark:text-white dark:focus:border-blue-500" 
                     placeholder="Search" 
-        required 
+    required 
                 />
                 <button 
                     type="submit" 
