@@ -47,8 +47,7 @@ const Sidebar = () => {
         <div className='flex items-center gap-4 mt-3 px-2'>
             <SiYoutubeshorts size={20} />
             <p className='text-[1.3vw]'>
-                Shorts
-</p>
+                Shorts</p>
         </div>
         <div className='flex items-center gap-4 mt-3 px-2'>
             <MdOutlineSubscriptions size={20} />
