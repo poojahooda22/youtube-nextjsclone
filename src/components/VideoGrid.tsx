@@ -60,7 +60,7 @@ export const VideoGrid = () => {
         {data.map((video, index) => {
             return (
                 <Card 
-             key={index} 
+            key={index} 
                     title={video.title}
                     image={video.image}
                     thumbImage={video.thumbImage}
