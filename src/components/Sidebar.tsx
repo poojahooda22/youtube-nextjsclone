@@ -41,7 +41,7 @@ const Sidebar = () => {
                 size={20}
             />
             <p className='text-[1.3vw]'>
-                Home
+             Home
             </p>
         </div>
         <div
