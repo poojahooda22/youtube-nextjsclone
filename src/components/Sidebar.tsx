@@ -40,7 +40,6 @@ const Sidebar = () => {
             <GoHomeFill 
                 size={20}
             />
-
             <p className='text-[1.3vw]'>
                 Home
             </p>
