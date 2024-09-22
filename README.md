@@ -1,1 +1,1 @@
-YouTube Clone in Next js + Types
+YouTube Clone in Next js + Type
