@@ -1,4 +1,6 @@
+import Button from "@/components/Button/Button";
 import Card from "@/components/Card";
+import FlashButton from "@/components/flash/FlashButton";
 import Navbar from "@/components/Navbar";
 import Sidebar from "@/components/Sidebar";
 import { VideoGrid } from "@/components/VideoGrid";
@@ -9,7 +11,10 @@ export default function Home() {
     <main className="py-[1vw]">
       <Navbar />
       {/* <Sidebar/> */}
-      {/* <VideoGrid /> */}
+      <VideoGrid />
+      {/* <Button /> */}
+      <FlashButton />
+
     </main>
   );
 }
