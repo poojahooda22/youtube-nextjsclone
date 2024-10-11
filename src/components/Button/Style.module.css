@@ -1,0 +1,42 @@
+.btn-1 {
+  --btn-color: #e9dc85; /* Replace this with a random color */
+  --btn-color-dark: #be9e44; /* Darker shade of the button color */
+  --btn-width: 100px; /* Random width for button */
+
+  
+  /* Lighter tint of button color */
+  position: relative;
+  display: inline-block;
+  padding: 10px 20px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  overflow: hidden;
+
+  .small-one {
+      position: absolute;
+      display: block;
+      width: 0;
+      height: 0;
+      border-radius: 50%;
+      background-color: var(--btn-color-dark);
+      transition: width 0.4s ease-in-out, height 0.4s ease-in-out;
+      transform: translate(-50%, -50%);
+      top: 50%;
+      left: 50%;
+      z-index: -1;
+  }
+
+  &:hover {
+      color: #fff; /* Lighter tint on hover */
+      
+      .small-one {
+          width: 225%;
+          height: calc(var(--btn-width) * 2.25);
+      }
+  }
+
+  &:active {
+      background-color: var(--btn-color);
+  }
+}
