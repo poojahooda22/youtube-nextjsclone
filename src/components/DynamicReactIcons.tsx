@@ -3,6 +3,28 @@
 import React, { ReactElement } from 'react'
 import * as AiReactIcons from 'react-icons/ai'
 
+
+interface IconType {
+    icon: string;
+    title: string;
+}
+
+const icons = [
+    {
+        icon: 'AiFillApple',
+        title: 'Account Book'
+    },
+    {
+        icon: 'AiFillGithub',
+        title: 'Account',
+    },
+    {
+        icon: 'AiFillApple',
+        title: 'Account 2',
+    }
+]
+
+
 const DynamicReactIcons = () => {
 
     /**
@@ -15,20 +37,6 @@ const DynamicReactIcons = () => {
         return (AiReactIcons as any)[iconName]
     }
 
-    const icons = [
-        {
-            icon: 'AiFillApple',
-            title: 'Account Book'
-        },
-        {
-            icon: 'AiFillGithub',
-            title: 'Account',
-        },
-        {
-            icon: 'AiFillApple',
-            title: 'Account 2'
-        }
-    ]
 
     return (
         <div>
