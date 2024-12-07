@@ -1,17 +1,21 @@
 .btn-1 {
   --btn-color: #e9dc85; /* Replace this with a random color */
-  --btn-color-dark: #be9e44; /* Darker shade of the button color */
+  --btn-color-dark: #12468b; /* Darker shade of the button color */
   --btn-width: 100px; /* Random width for button */
 
   
   /* Lighter tint of button color */
   position: relative;
   display: inline-block;
-  padding: 10px 20px;
+  padding: 8px 16px;
   border: none;
   background-color: transparent;
   cursor: pointer;
   overflow: hidden;
+  background-color: rgb(76, 135, 245);
+  border-radius: 8px;
+  color: white;
+  z-index: 9;
 
   .small-one {
       position: absolute;
