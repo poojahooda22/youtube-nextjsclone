@@ -1,5 +1,6 @@
 import Button from "@/components/Button/Button";
 import Card from "@/components/Card";
+import DynamicReactIcons from "@/components/DynamicReactIcons";
 import FlashButton from "@/components/flash/FlashButton";
 import Navbar from "@/components/Navbar";
 import Sidebar from "@/components/Sidebar";
@@ -18,7 +19,7 @@ export default function Home() {
       {/* <Navbar />
       <Sidebar/>
       <Trigger /> */}
-      <Testing/>
+      <DynamicReactIcons />
       <Sidebar2 />
       {/* <VideoGrid />
       <Button />
